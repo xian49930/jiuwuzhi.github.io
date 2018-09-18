@@ -1,0 +1,27 @@
+---
+layout:     post
+title:      Test My First Post on This Blog
+subtitle:   Posting Test
+date:       2018-9-18
+author:     XL
+header-img: img/post-bg-ios9-web.jpg
+catalog: 	 true
+tags:
+    - iOS
+---
+
+# Test - Header 1
+Try to type some words here.
+
+# Test - Header 2
+## Test - Header 2.1
+Hello World!
+### test - header 2.1.1
+Xian Li
+
+```
+Insert some words here.
+```
+Here it shows some picture of `iPhone XR, XS, XS Max`.
+
+![](https://cdn.vox-cdn.com/thumbor/DgLP_M2I6SEc0t9Udpj66hkYEBY=/0x0:2040x1360/1200x800/filters:focal(854x1034:1180x1360)/cdn.vox-cdn.com/uploads/chorus_image/image/61385371/npatel_180912_2947_0016_clean.0.jpg)
