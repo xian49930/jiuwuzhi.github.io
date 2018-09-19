@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: xian@mtu.edu
 description: "Fortune Favors the Bold."
 keyword: "Apple, iPhone"
-url: "http://jiuwuzhi.github.io"          # your host, for absolute URL
+url: "https://jiuwuzhi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jiuwuzhi/jiuwuzhi.github.io.git" # you code repository
 
@@ -21,7 +21,7 @@ RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
 github_username:    jiuwuzhi
-facebook_username:  xian.li.794
+facebook_username:    xian.li.794
 # jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
