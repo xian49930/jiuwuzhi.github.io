@@ -1,11 +1,11 @@
 # Site settings
 title: Xian (Shawn) Li's Blog
 SEOTitle: Xian's Blog | XL Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-mp.jpg
 email: xian@mtu.edu
 description: "Fortune Favors the Bold."
-keyword: "Apple, iPhone"
-url: "https://jiuwuzhi.github.io"          # your host, for absolute URL
+keyword: 
+url: "https://xian49930.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jiuwuzhi/jiuwuzhi.github.io.git" # you code repository
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-XL-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
-github_username:    jiuwuzhi
+github_username:    xian49930
 facebook_username:    xian.li.794
 linkedin_username:    xian-li-51034b135
 # jianshu_username:   e71990ada2fd
@@ -65,9 +65,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 64d1dddd0e6cf283a9ac                            #生成的clientID
   clientSecret: 9c75ea74e805d9ac1e2798c1c267f55aff91b6e5    #生成的clientSecret
-  repo: jiuwuzhi.github.io    #仓库名称
-  owner: jiuwuzhi    #github用户名
-  admin: jiuwuzhi
+  repo: xian49930.github.io    #仓库名称
+  owner: xian49930    #github用户名
+  admin: xian49930
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -100,11 +100,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
+        title: ,
+        href: 
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: ,
+        href: 
     }
 ]
 
