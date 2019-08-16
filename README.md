@@ -1,6 +1,3 @@
-# Xian Li's personal blog
-Mainly, this blog is built for helping me find a job in 2018-2019. It shows my projects in my Ph.D. study.
+# Xian (Shawn) Li's personal blog
 
-Please wish me good luck!
-
-Love & Peace
+Life is good.
