@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Major aspects in the selection of pumps and motors"
-subtitle:   "\"Princeples of Hydraulic Systems\""
+subtitle:   "\"Principles of Hydraulic Systems\""
 date:       2019-08-25
 author:     XL
 header-img: img/post-bg-mechanics.jpeg
