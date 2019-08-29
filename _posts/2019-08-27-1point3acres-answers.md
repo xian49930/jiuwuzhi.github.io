@@ -19,6 +19,9 @@ tags:
 
 > *New Q&As will be updated by myself.*
 
+- '下面哪个公司总部不在湾区？'
+	- **'snapchat'**
+
 - 'Negotiate 工资的时候，哪种做法有利于得到更大的包裹？'
 	- **'精读地里谈工资宝典，知己知彼，百战不殆'**
 
