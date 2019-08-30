@@ -19,6 +19,9 @@ tags:
 
 > *New Q&As will be updated by myself.*
 
+- 休斯敦在美国以什么工业出名?
+	- **宇航**
+
 - 下面哪个公司总部不在湾区？
 	- **snapchat**
 
