@@ -17,7 +17,7 @@ tags:
 
 This posts records all my notes for the online course - Python for Machine Learning - on Coursera.com.
 
-New notes will be added on the top of the older ones.
+*New notes will be added on the top of the older ones.*
 
 - Supervised Learning
 	- We "teach the model", then with that knowledge =, it can predict unknown or future instances.
