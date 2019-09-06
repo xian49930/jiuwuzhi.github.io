@@ -19,8 +19,13 @@ This posts records all my notes for the online course - Python for Machine Learn
 
 New notes will be added on the top of the older ones.
 
-- Python libraries for machine learning
+- Supervised Learning
+	- We "teach the model", then with that knowledge =, it can predict unknown or future instances.
+
+- Python libraries for machine learning (**upper level marked in bold**)
 	- [Numpy](https://numpy.org/)
 	- [SciPy](https://www.scipy.org/)
 	- [matplotlib](https://matplotlib.org/)
+	- [**pandas**](https://pandas.pydata.org/)
+	- [**scikit-learn**](https://scikit-learn.org/stable/)
 
