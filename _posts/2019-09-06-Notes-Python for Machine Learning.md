@@ -27,8 +27,8 @@ This posts records all my notes for the online course - Python for Machine Learn
 
 | **Supervised Learning**                                     | **Unsupervised Learning**                                        |
 |---------------------------------------------------------|--------------------------------------------------------------|
-| **Classification**: Classifies labeled data                 | **Clustering**: Finds patterns and groupings from unlabeled data |
-| **Regression**: Predicts trends using previous labeled data |                                                              |
+| **Classification**:  Classifies labeled data                 | **Clustering**:  Finds patterns and groupings from unlabeled data |
+| **Regression**:  Predicts trends using previous labeled data |                                                              |
 | Has more evaluation methods                             | Has fewer evaluation methods than supervised learning        |
 | Controlled environment                                  | Less controlled environment                                  |
 
