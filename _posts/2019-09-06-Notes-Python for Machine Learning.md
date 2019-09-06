@@ -19,10 +19,27 @@ This posts records all my notes for the online course - Python for Machine Learn
 
 *New notes will be added on the top of the older ones.*
 
-- Supervised Learning
-	- We "teach the model", then with that knowledge =, it can predict unknown or future instances.
+- Unsupervised Learning
+	- *The model works on its own to discover information.*
+	- Unlabelled data.
+	- Techniques include:
+		- Dimension reduction
+		- Density estimation
+		- Market basket analysis
+		- **Clustering**  *(one of most popular)*
+	- ***Clustering***: grouping of data points or objects that are somehow **similar** by:
+		- Discovering structure
+		- Summarization
+		- Anomaly detection
 
-- Python libraries for machine learning (**upper level marked in bold**)
+
+- Supervised Learning
+	- *We "teach the model", then with that knowledge, it can predict unknown or future instances.*
+	- Labelled data. 
+	- ***Classification***: the process of predicting discrete class lebels or categories.
+	- ***Regression***: the process of predicting continuous values.
+
+- Python libraries for machine learning (***upper level marked in bold***)
 	- [Numpy](https://numpy.org/)
 	- [SciPy](https://www.scipy.org/)
 	- [matplotlib](https://matplotlib.org/)
