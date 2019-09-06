@@ -19,6 +19,12 @@ This posts records all my notes for the online course - Python for Machine Learn
 
 *New notes will be added on the top of the older ones.*
 
+
+## Week 2
+
+
+## Week 1
+
 | **Supervised Learning**                                     | **Unsupervised Learning**                                        |
 |---------------------------------------------------------|--------------------------------------------------------------|
 | **Classification**: Classifies labeled data                 | **Clustering**: Finds patterns and groupings from unlabeled data |
