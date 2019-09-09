@@ -38,6 +38,7 @@ This posts records all my notes for the online course - Python for Data Science 
 	- Set_1.add('new_element')
 	- Set_1.remove('old_element')
 	- 'Set_1 & Set_2' outputs the overlay of these two sets.
+		- The intersection operation ('&') finds the elements that are in both sets.
 
 - Dictionaries
 	- Keys & Values
