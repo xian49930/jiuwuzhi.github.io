@@ -32,8 +32,26 @@ This posts records all my notes for the online course - Python for Data Science 
 	- **Set** is a collection which is ***unordered*** and ***unindexed***. ...
 	- **Dictionary** is a collection which is ***unordered, changeable and indexed***.
 
+- Sets
+	- No duplicates.
+	- {element 1, element 2, element 3, ...}
+	- Set_1.add('new_element')
+	- Set_1.remove('old_element')
+	- 'Set_1 & Set_2' outputs the overlay of these two sets.
+
+- Dictionaries
+	- Keys & Values
+	- {"key_1":value_1, "key_2":value_2, ...}
+
 - Lists
 	- [element 1, element 2, element 3...]
+	 - Aliasing
+	 	- B = A
+	 	- Refer to the same list. B & A changes at the same time
+	 	- Use 'Clone' to refer to the different lists.
+	 - Clone
+	 	- B = A[:]
+	 	- Refer to the different lists.
 
 - Tuples
 	- Tuples: a finite ordered list of elements. (element 1, element 2, element 3...)
