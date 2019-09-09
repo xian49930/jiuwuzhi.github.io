@@ -2,7 +2,7 @@
 layout:     post
 title:      "Notes for 'Python for Machine Learning'"
 subtitle:   "\"Coursera\""
-date:       2019-09-05
+date:       2019-09-06
 author:     XL
 header-img: 
 catalog: 	 true
