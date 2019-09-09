@@ -25,6 +25,12 @@ This posts records all my notes for the online course - Python for Data Science 
 
 ## Week 1
 
+- DDL (Data Definition Language) statements:
+	- Define, change, or drop data
+
+- DML (Data Manipulation Language) statements:
+	- Read and modify data
+
 - 5 basic SQL commands
 	- ***create***
 	- ***insert***
