@@ -24,6 +24,8 @@ This posts records all my notes for the online course - Python for Data Science 
 
 ## Week 1
 
+- [**swirl**](https://swirlstats.com/) is a nice place to start. It will teach R programming and data science interactively. Good!
+
 ### Basics of R
 
 - getwd()
@@ -32,7 +34,25 @@ This posts records all my notes for the online course - Python for Data Science 
 - setwd(dir)
 	- set the current working directory to *dir*
 
-- list.files()
+- file.create("mytest.R")
+	- create new files
+
+- file.exists("mytest.R")
+	- Check to see if "mytest.R" exists in the working directory
+
+- file.info("mytest.R")
+	- Access information about the file "mytest.R"
+
+- file.rename("mytest.R", "mytest2.R")
+	- Change the name of the file "mytest.R" to "mytest2.R"
+
+- file.copy("mytest2.R", "mytest3.R")
+	- Make a copy of "mytest2.R" called "mytest3.R"
+
+- file.path("mytest3.R")
+	- Provide the relative path to the file "mytest3.R"
+
+- list.files(), dir()
 	- list the files in the current working directory
 
 - ls()
