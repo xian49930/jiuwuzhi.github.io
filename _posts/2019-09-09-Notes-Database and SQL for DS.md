@@ -15,7 +15,7 @@ tags:
 ---
 # Notes 
 
-This posts records all my notes for the online course - Python for Data Science and AI - on Coursera.com.
+This posts records all my notes for the online course - Python for Database and SQL for Data Science - on Coursera.com.
 
 *New notes will be added on the top of the older ones.*
 
