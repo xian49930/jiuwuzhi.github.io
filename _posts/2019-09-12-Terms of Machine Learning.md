@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Terms (Glossary) of Machine Learning"
+title:      "Terms of Machine Learning - basic"
 subtitle:   "\"\""
 date:       2019-09-12
 author:     XL
