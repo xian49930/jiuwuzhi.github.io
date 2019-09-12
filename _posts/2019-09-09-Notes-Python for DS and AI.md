@@ -20,13 +20,36 @@ This posts records all my notes for the online course - Python for Data Science 
 
 *New notes will be added on the top of the older ones.*
 
+## Week 3
+
+### Python Packages for Data Science
+- **Scientifics Computing** Libraries
+	- **Pandas**
+		- Data structures & tools
+	- **NumPy**
+		- Arrays & matrices
+	- **SciPy**
+		- Integrals, solving differential equations, optimization
+
+- **Visualization** Libraries
+	- **Matplotlib**
+		- plots & graphs, most popular
+	- **Seaborn**
+		- plots: heat maps, time series, violin plots
+
+- **Algorithmic** Libraries
+	- **Scikit-learn**
+		- machine Learning: regression, classification, clustering
+	- **Statsmodels**
+		- Explore data, estimate statistical models, and perform statistical tests.
+
+
 
 ## Week 2
 
 - Dataframe
 	- you can cast a "dictionary" to a dataframe.
-	- dx.ix[num_1, num_2], let you access the specific unit in the dataframe
-	- 
+	- dx.ix[num_1, num_2], let you access the specific unit in the dataframe.
 
 - with open(filename,file_mode) as File:
 	- using statement "with" will always automatically close the file object, like appying "file.close()".
