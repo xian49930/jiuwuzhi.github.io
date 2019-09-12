@@ -23,6 +23,19 @@ This posts records all my notes for the online course - Python for Data Science 
 
 ## Week 2
 
+- Dataframe
+	- you can cast a "dictionary" to a dataframe.
+	- dx.ix[num_1, num_2], let you access the specific unit in the dataframe
+	- 
+
+- with open(filename,file_mode) as File:
+	- using statement "with" will always automatically close the file object, like appying "file.close()".
+
+- old_list.sort()
+	- .sort() doesn't return new list, it changes the original list.
+
+- Sorted(old_list)
+	- sorted() is a function and returns a new list, it does not change the original list.
 
 ## Week 1
 
