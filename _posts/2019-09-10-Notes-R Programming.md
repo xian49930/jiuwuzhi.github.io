@@ -21,6 +21,32 @@ This posts records all my notes for the online course - Python for Data Science 
 
 ## Week 2
 
+### Logic
+
+- **&**
+	- use the `&` operator to evaluate AND across a vector.
+- **&&**
+	- The `&&` version of AND only evaluates the first member of a vector.
+
+- **|**
+	- The `|` version of OR evaluates OR across an entire vector
+- **||**
+	- the `||` version of OR only evaluates the first member of a vector.
+
+- **isTRUE(argument)**
+	- The function isTRUE() takes one argument. If that argument evaluates to TRUE, the function will return TRUE. Otherwise, the function will return FALSE.
+
+- **xor(argument_1, argument_2)**
+	- The xor() function stands for exclusive OR. If one argument evaluates to TRUE and one argument evaluates to FALSE, then this function will return TRUE, otherwise it will return FALSE.
+
+- **which(argument)**
+	- The which() function takes a logical vector as an argument and returns the indices of the vector that are TRUE.
+
+- **any(argument)**
+	- The any() function will return TRUE if one or more of the elements in the logical vector is TRUE. 
+
+- **all(argument)**
+	- The all() function will return TRUE if every element in the logical vector is TRUE.
 
 ## Week 1
 
