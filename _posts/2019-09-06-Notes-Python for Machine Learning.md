@@ -21,6 +21,30 @@ This posts records all my notes for the online course - Python for Machine Learn
 
 
 ## Week 2
+- Types of Regression models:
+	- Simple Regression
+		- Simple Linear Regression
+		- Simple Non-linear Regression
+	- Multiple Regression:
+		- Multiple Linear Regression
+		- Multiple Non-linear Regression
+
+- Applications of Regression
+	- Sales forecasting
+	- Satisfaction analysis
+	- Price estimation
+	- Employment income
+
+- Regression Algorithms
+	- Ordinal regression
+	- Poisson regression
+	- Fast forest quantile regression
+	- Linear, Polynomial, Lasso, Stepwise, Ridge regression
+	- Bayesian linear regression
+	- Neural network regression
+	- Decision forest regression
+	- Boosted decision tree regression
+	- KNN (K-nearest neighbors)
 
 
 ## Week 1
