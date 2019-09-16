@@ -28,9 +28,9 @@ This posts records all my notes for the online course - Python for Data Science 
 - **&&**
 	- The `&&` version of AND only evaluates the first member of a vector.
 
-- **|**
+- **'|'**
 	- The `|` version of OR evaluates OR across an entire vector
-- **||**
+- **'||'**
 	- the `||` version of OR only evaluates the first member of a vector.
 
 - **isTRUE(argument)**
