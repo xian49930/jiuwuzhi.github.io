@@ -22,6 +22,12 @@ This posts records all my notes for the online course - Python for Data Science 
 
 ## Week 3
 
+- Matplotlib architecture
+	- the backend
+	- the artist
+	- the scripting layers
+
+
 ### Python Packages for Data Science
 - **Scientifics Computing** Libraries
 	- **Pandas**
