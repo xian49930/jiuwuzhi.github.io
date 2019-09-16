@@ -21,6 +21,9 @@ This posts records all my notes for the online course - Python for Machine Learn
 
 
 ## Week 2
+
+`$MSE = \frac{1}{n}$`
+
 - Types of Regression models:
 	- Simple Regression
 		- Simple Linear Regression
