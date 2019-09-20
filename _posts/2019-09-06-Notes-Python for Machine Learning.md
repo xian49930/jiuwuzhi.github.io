@@ -22,7 +22,7 @@ This posts records all my notes for the online course - Python for Machine Learn
 
 ## Week 2
 
-\\( MSE = \frac{1}{n}\sum_{i=1}^{n}(y_i-\hat{y_i})^2 \\)
+\\( \\( MSE = \frac{1}{n}\sum_{i=1}^{n}(y_i-\hat{y_i})^2 \\)\\)
 <!--
 \\[ MSE = \frac{1}{n} \\]
 -->
