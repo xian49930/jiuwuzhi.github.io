@@ -22,7 +22,9 @@ This posts records all my notes for the online course - Python for Machine Learn
 
 ## Week 2
 
-\\( \\( MSE = \frac{1}{n}\sum_{i=1}^{n}(y_i-\hat{y_i})^2 \\)\\)
+\\( RMSE = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_i-\hat{y_i})^2} \\)
+\\( MSE = \frac{1}{n}\sum_{i=1}^{n}(y_i-\hat{y_i})^2 \\)
+\\( MAE = \frac{1}{n}\sum_{j=1}^{n}|y_i-\hat{y_i}|\\)
 <!--
 \\[ MSE = \frac{1}{n} \\]
 -->
