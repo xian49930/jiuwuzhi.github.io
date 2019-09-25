@@ -28,6 +28,8 @@ This list will start from the basic common operation (i.e. copy, cut, paste, del
 
 **cd** ***dir*** - change directory to *dir*
 
+**cd ..** - change to one upper-level directory
+
 **cd** - change to home
 
 **pwd** - show present working directory
