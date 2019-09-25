@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Terms of Machine Learning - basic"
-subtitle:   "\"\""
+subtitle:   "\"Machine Learning\""
 date:       2019-09-12
 author:     XL
 header-img: 
