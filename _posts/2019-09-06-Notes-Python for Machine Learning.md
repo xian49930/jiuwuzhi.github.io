@@ -20,6 +20,18 @@ This posts records all my notes for the online course - Python for Machine Learn
 *New notes will be added on the top of the older ones.*
 
 
+## Week 3
+
+- Classification algorithms in ML:
+	- Decision Trees (ID3, C4.5, C5.0)
+	- Naive Bayes
+	- Linear Discriminant Analysis
+	- K-Neareest neighbor
+	- Logistic Regression
+	- Neural Networks
+	- Support Vector Machines (SVM)
+
+
 ## Week 2
 
 - **Different types of errors:**
