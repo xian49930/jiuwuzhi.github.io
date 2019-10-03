@@ -19,6 +19,58 @@ This posts records all my notes for the online course - Python for Machine Learn
 
 *New notes will be added on the top of the older ones.*
 
+## Week 4
+
+**Clustering**
+
+Intro to Clustering:
+
+- Clustering for segmentation 
+	- (showing an example first.)
+
+- What is clustering?
+	- A group of objects that are similar to other objects in the cluster, and dissimilar to data points in other clusters.
+
+- Clustering V.S. classification
+	- (showing an similar but different term, which may easily confuse people.)
+	- classification: labeled dataset
+	- clustering: unlabeled dataset
+
+- Clustering applications:
+	- Retail/marketing
+		- identifying buying patterns of customers
+		- recommending new books or moviews to new customers
+	- Banking
+		- fraud detection in credit card use
+		- identifying clusters of customers (e.g. loyal)
+	- Insurance
+		- fraud detection in claims analysis
+		- insurance risk of customers
+	- Publication
+		- Auto-categorizing news based on their content
+		- Recommending similar news articles
+	- Medicine
+		- Characterizing patient behavior
+	- Biology
+		- Clustering genetic markers to identify family ties
+
+- Why clustering?
+	- Exploratory data analysis
+	- Summary generation
+	- Outlier detection
+	- Finding duplicates
+	- Pre-processing step
+
+- Clutering algorithms
+	- Partitioned-based Clustering
+		- Relatively efficient
+		- K-Means, K-Median, Fuzzy c-Means
+	- Hierarchical Clustering
+		- Produces trees pf c;uters
+		- Agglomerative, Divisive
+	- Density-based Clutering
+		- Produces arbitrary shaped cluters
+		- DBSCAN 
 
 ## Week 3
 
