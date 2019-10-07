@@ -21,6 +21,41 @@ This posts records all my notes for the online course - Python for Machine Learn
 
 ## Week 4
 
+**DBSCAN Clustering**
+
+- Density-Based Spatial Clutering of Applications with Noise 
+
+- Density based clustering locates regions of **high density**, and *separates outliers*.
+
+- Each point in the DBSCAN is either:
+	- core point
+	- border point
+	- outlier point
+ - Advantages of DBSCAN:
+ 	- Arbitrarily shaped clusters
+ 	- Robust to outliers
+ 	- Does not require specification of the number of clusters
+
+ 
+
+
+**Hierarchical Clustering**
+
+- Agglomerative (more often)
+
+- Divisive
+
+
+**K-Means Clustering**
+
+- Partitioning Clustering
+
+- K-means divides the data into non-overlapping subsets (clusters) without any cluster-internal structure
+	- Examples *within* a cluster are very similar
+	- Examples *across* different clusters are very different
+
+
+
 **Clustering**
 
 Intro to Clustering:
