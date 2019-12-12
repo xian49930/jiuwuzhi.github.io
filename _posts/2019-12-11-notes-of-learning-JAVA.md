@@ -86,9 +86,25 @@ Without the **main** method, a Java project is a collection of classes that are 
 
 - Enums are the tools for you to limit the implementation of a class to a fixed number of instances.
 
+What is the difference between an **interface** and an **abstract class**?
 
+- An **interface** is not a class, but it does help create classes.
+- An interface is fully abstract.
+  - It has no fields, only method definitions (skeletons).
+- A **class** can implement an interface, and unless the class is abstract, it is forced to provide concrete implementations for them.
+- Each method inside an interface is implicitly *public* and *abstract*.
+- The only methods with concrete bodies in an interface are static methods and starting with Java 8, **default** methods.
+- Interfaces that declare no method definitions are called **marker** interfaces and have the purpose to mark classes for specific purposes.
+- The most renowned/known Java marker interface is **java.io.Serializable**, which makes objects that can be serialized (their state can be saved to a binary file).
+- There are two types of interfaces:
+  - **Normal interfaces**
+  - **Annotations**
+- The difference between abstract classes and interfaces, and when one or the other should be used, becomes relevant in the context of **inheritance**.
+  - Java supports only single inheritance. 
+  - A class can only have one superclass.
+  - Using interfaces **multiple inheritance** is possible in Java, and that classes extend classes and implement interfaces.
 
-
+![](https://ws2.sinaimg.cn/large/006tNbRwly1g9tntv7ezoj30uk0oc79o.jpg)
 
 ## Shortcuts
 
